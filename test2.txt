@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4E49-3555
+
+ Directory of C:\Users\DELL\Documents\New Project
+
+18-10-2018  21:45    <DIR>          .
+18-10-2018  21:45    <DIR>          ..
+18-10-2018  21:45                 0 test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  36,154,073,088 bytes free
+Now making some changes in the file test2.txt
